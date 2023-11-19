@@ -15,7 +15,7 @@
   - [Name Formatter](https://github.com/EwanDouglas/NameFormatter)
 
 - <b>Morse Code Convertor</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Morse Code Converter](https://github.com/EwanDouglas/)
 
 - <b>Console Calculator</b>
   - [Console Calculator](https://github.com)
