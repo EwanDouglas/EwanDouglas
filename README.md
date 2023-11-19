@@ -17,7 +17,7 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Console Calculator</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Console Calculator](https://github.com)
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
