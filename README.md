@@ -1,7 +1,36 @@
-### Hi there 👋
+<h1>Hi, I'm Ewan! </h1>
+
+<h2> Educational Experience</h2>
+  -BBA Computer Information Systems, Texas State University
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Rock Paper Scissors)</b>
+  - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
+
+- <b>Tic-Tac-Toe)</b>
+  - [Tic-Tac-Toe](https://github.com/EwanDouglas/TicTacToe)
+ 
+- <b>Title Generator)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+ 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+<h2>📺 Project Explanation Videos</h2>
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+
 
 <!--
-**EwanDouglas/EwanDouglas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
