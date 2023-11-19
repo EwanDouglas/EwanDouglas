@@ -13,14 +13,14 @@
 - <b>Name Formatter</b>
   - [Name Formatter](https://github.com/EwanDouglas/NameFormatter)
 
- - <b>Morse Code Convertor</b>
+- <b>Morse Code Convertor</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Console Calculator</b>
   - [Console Calculator](https://github.com)
  
-  - - <b>Address Book</b>
-  - [Console Calculator](https://github.com/EwanDouglas/AddressBook)
+- <b>Address Book</b>
+  - [Address Book](https://github.com/EwanDouglas/AddressBook)
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
