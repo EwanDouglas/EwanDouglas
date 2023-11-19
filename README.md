@@ -19,6 +19,9 @@
 - <b>Console Calculator</b>
   - [Console Calculator](https://github.com)
  
+  - - <b>Address Book</b>
+  - [Console Calculator](https://github.com/EwanDouglas/AddressBook)
+ 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
