@@ -4,13 +4,13 @@
   -BBA Computer Information Systems, Texas State University
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Rock Paper Scissors)</b>
+- <b>Rock Paper Scissors</b>
   - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
 
-- <b>Tic-Tac-Toe)</b>
+- <b>Tic-Tac-Toe</b>
   - [Tic-Tac-Toe](https://github.com/EwanDouglas/TicTacToe)
  
-- <b>Title Generator)</b>
+- <b>Title Generator</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
