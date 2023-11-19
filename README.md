@@ -10,7 +10,13 @@
 - <b>Tic-Tac-Toe</b>
   - [Tic-Tac-Toe](https://github.com/EwanDouglas/TicTacToe)
  
-- <b>Title Generator</b>
+- <b>Name Formatter</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+ - <b>Morse Code Convertor</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Console Calculator</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
