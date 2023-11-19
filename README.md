@@ -11,7 +11,7 @@
   - [Tic-Tac-Toe](https://github.com/EwanDouglas/TicTacToe)
  
 - <b>Name Formatter</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](https://github.com/EwanDouglas/NameFormatter)
 
  - <b>Morse Code Convertor</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
