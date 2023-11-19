@@ -2,6 +2,7 @@
 
 <h2> Educational Experience</h2>
   -BBA Computer Information Systems, Texas State University
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Rock Paper Scissors</b>
@@ -27,6 +28,25 @@
 - <b> -- (--)</b>
   - [--](https://github.com)
 
+<h2>👨‍💻 Mobile App Development:</h2>
+
+- <b>Rock Paper Scissors</b>
+  - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
+
+<h2>👨‍💻 Game Development:</h2>
+
+- <b>Rock Paper Scissors</b>
+  - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
+
+<h2>👨‍💻 Database Projects:</h2>
+
+- <b>Rock Paper Scissors</b>
+  - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
+
+<h2>👨‍💻 Blockchain Projects:</h2>
+
+- <b>Rock Paper Scissors</b>
+  - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
 
 <h2>📺 Project Explanation Videos</h2>
 
