@@ -5,7 +5,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Rock Paper Scissors</b>
-  - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
+  - [Rock Paper Scissors](https://github.com/EwanDouglas/Rock_Paper_Scissors)
 
 - <b>Tic-Tac-Toe</b>
   - [Tic-Tac-Toe](https://github.com/EwanDouglas/TicTacToe)
