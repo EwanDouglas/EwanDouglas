@@ -47,6 +47,13 @@
 
 <h2>📺 Project Explanation Videos</h2>
 
+<h2>📺 Computer Specifications</h2>
+
+- <b>CPU: AMD Ryzen 7900x</b>
+- <b>GPU: AMD Radeon 7900XTX</b>
+- <b>RAM: 32GB DDR5</b>
+- <b>Storage: 4TB SSD </b>
+
 
 
 <h2> 🤳 Connect with me:</h2>
