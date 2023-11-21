@@ -23,27 +23,27 @@
 - <b>Address Book</b>
   - [Address Book](https://github.com/EwanDouglas/AddressBook)
  
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🗜 Cybersecurity Projects:</h2>
 
 - <b> -- (--)</b>
   - [--](https://github.com)
 
-<h2>👨‍💻 Mobile App Development:</h2>
+<h2>📲 Mobile App Development:</h2>
 
 - <b>Rock Paper Scissors</b>
   - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
 
-<h2>👨‍💻 Game Development:</h2>
+<h2>🕹 Game Development:</h2>
 
 - <b>Rock Paper Scissors</b>
   - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
 
-<h2>👨‍💻 Database Projects:</h2>
+<h2>💽 Database Projects:</h2>
 
 - <b>Rock Paper Scissors</b>
   - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
 
-<h2>👨‍💻 Blockchain Projects:</h2>
+<h2>🗝 Blockchain Projects:</h2>
 
 - <b>Rock Paper Scissors</b>
   - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
