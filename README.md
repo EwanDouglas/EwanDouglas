@@ -47,7 +47,7 @@
 
 <h2>📺 Project Explanation Videos</h2>
 
-<h2>📺 Computer Specifications</h2>
+<h2>🖥️ Computer Specifications</h2>
 
 - <b>CPU: AMD Ryzen 7900x</b>
 - <b>GPU: AMD Radeon 7900XTX</b>
