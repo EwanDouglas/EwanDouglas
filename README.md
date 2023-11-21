@@ -23,7 +23,7 @@
 - <b>Address Book</b>
   - [Address Book](https://github.com/EwanDouglas/AddressBook)
  
-<h2>🗜 Cybersecurity Projects:</h2>
+<h2>🪬 Cybersecurity Projects:</h2>
 
 - <b> -- (--)</b>
   - [--](https://github.com)
