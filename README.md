@@ -8,8 +8,8 @@
 - <b>Name Formatter</b>
   - [Name Formatter](https://github.com/EwanDouglas/NameFormatter)
 
-- <b>Morse Code Convertor</b>
-  - [Morse Code Converter](https://github.com/EwanDouglas/)
+- <b>English to Morse Code translator</b>
+  - [Morse Code Translator](https://github.com/EwanDouglas/)
 
 - <b>Console Calculator</b>
   - [Console Calculator](https://github.com)
