@@ -9,7 +9,7 @@
   - [Name Formatter](https://github.com/EwanDouglas/NameFormatter)
 
 - <b>English to Morse Code translator</b>
-  - [Morse Code Translator](https://github.com/EwanDouglas/)
+  - [Morse Code Translator](https://github.com/EwanDouglas/MorseCodeTranslator)
 
 - <b>Console Calculator</b>
   - [Console Calculator](https://github.com)
