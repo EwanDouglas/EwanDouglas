@@ -5,12 +5,6 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Rock Paper Scissors</b>
-  - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
-
-- <b>Tic-Tac-Toe</b>
-  - [Tic-Tac-Toe](https://github.com/EwanDouglas/TicTacToe)
- 
 - <b>Name Formatter</b>
   - [Name Formatter](https://github.com/EwanDouglas/NameFormatter)
 
@@ -25,28 +19,31 @@
  
 <h2>🪬 Cybersecurity Projects:</h2>
 
-- <b> -- (--)</b>
-  - [--](https://github.com)
+- <b>Coming Soon</b>
+  - [Coming Soon](https://github.com/EwanDouglas)
 
 <h2>📲 Mobile App Development:</h2>
 
-- <b>Rock Paper Scissors</b>
-  - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
+- <b>Hotel List</b>
+  - [Hotel List](https://github.com/EwanDouglas/RockPaperScissors)
 
 <h2>🕹 Game Development:</h2>
 
 - <b>Rock Paper Scissors</b>
   - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
 
+- <b>Tic-Tac-Toe</b>
+  - [Tic-Tac-Toe](https://github.com/EwanDouglas/TicTacToe)
+
 <h2>💽 Database Projects:</h2>
 
-- <b>Rock Paper Scissors</b>
-  - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
+- <b>Coming Soon</b>
+  - [Coming Soon](https://github.com/EwanDouglas)
 
 <h2>🗝 Blockchain Projects:</h2>
 
-- <b>Rock Paper Scissors</b>
-  - [Rock Paper Scissors](https://github.com/EwanDouglas/RockPaperScissors)
+- <b>Coming Soon</b>
+  - [Coming Soon](https://github.com/EwanDouglas)
 
 <h2>📺 Project Explanation Videos</h2>
 
