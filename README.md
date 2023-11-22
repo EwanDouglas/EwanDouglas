@@ -45,7 +45,7 @@
 - <b>Coming Soon</b>
   - [Coming Soon](https://github.com/EwanDouglas)
 
-<h2>📺 Project Explanation Videos</h2>
+<!-- <h2>📺 Project Explanation Videos</h2> -->
 
 <h2>🖥️ Computer Specifications</h2>
 
