@@ -12,7 +12,7 @@
   - [Morse Code Translator](https://github.com/EwanDouglas/MorseCodeTranslator)
 
 - <b>Console Calculator</b>
-  - [Console Calculator](https://github.com)
+  - [Console Calculator](https://github.com/EwanDouglas/ConsoleCalculator)
  
 - <b>Address Book</b>
   - [Address Book](https://github.com/EwanDouglas/AddressBook)
