@@ -53,6 +53,8 @@
 - <b>GPU: AMD Radeon 7900XTX</b>
 - <b>RAM: 32GB DDR5</b>
 - <b>Storage: 4TB SSD </b>
+- <b>OS: Windows 11 </b>
+- <b>Monitor: LG Ultragear 34" </b>
 
 
 
