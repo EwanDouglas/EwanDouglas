@@ -22,8 +22,6 @@
 - <b>Coming Soon</b>
   - [Coming Soon](https://github.com/EwanDouglas)
 
-<h2>📲 Mobile App Development:</h2>
-
 - <b>Hotel List</b>
   - [Hotel List](https://github.com/EwanDouglas/RockPaperScissors)
 
