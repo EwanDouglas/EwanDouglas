@@ -17,7 +17,7 @@
 - <b>Address Book</b>
   - [Address Book](https://github.com/EwanDouglas/AddressBook)
  
-<h2>🪬 Cybersecurity Projects:</h2>
+<!-- <h2>🪬 Cybersecurity Projects:</h2> -->
 
 - <b>Coming Soon</b>
   - [Coming Soon](https://github.com/EwanDouglas)
@@ -33,12 +33,12 @@
 - <b>Tic-Tac-Toe</b>
   - [Tic-Tac-Toe](https://github.com/EwanDouglas/TicTacToe)
 
-<h2>💽 Database Projects:</h2>
+<!-- <h2>💽 Database Projects:</h2> -->
 
 - <b>Coming Soon</b>
   - [Coming Soon](https://github.com/EwanDouglas)
 
-<h2>🗝 Blockchain Projects:</h2>
+<!-- <h2>🗝 Blockchain Projects:</h2> -->
 
 - <b>Coming Soon</b>
   - [Coming Soon](https://github.com/EwanDouglas)
