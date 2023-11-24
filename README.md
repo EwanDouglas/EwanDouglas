@@ -17,10 +17,12 @@
 - <b>Address Book</b>
   - [Address Book](https://github.com/EwanDouglas/AddressBook)
  
+- <b>Color Mixer</b>
+  - [Color Mixer](https://github.com/EwanDouglas/ColorMixer)
+ 
 <!-- <h2>🪬 Cybersecurity Projects:</h2> -->
 
-- <b>Coming Soon</b>
-  - [Coming Soon](https://github.com/EwanDouglas)
+
 
 - <b>Hotel List</b>
   - [Hotel List](https://github.com/EwanDouglas/RockPaperScissors)
