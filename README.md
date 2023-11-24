@@ -20,12 +20,14 @@
 - <b>Color Mixer</b>
   - [Color Mixer](https://github.com/EwanDouglas/ColorMixer)
  
-<!-- <h2>🪬 Cybersecurity Projects:</h2> -->
+<!-- <h2>🪬 Cybersecurity Projects:</h2> 
 
 
 
 - <b>Hotel List</b>
   - [Hotel List](https://github.com/EwanDouglas/RockPaperScissors)
+
+  -->
 
 <h2>🕹 Game Development:</h2>
 
