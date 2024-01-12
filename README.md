@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to my GitHub repository! My name is Ewan, a recent graduate in Computer Information Systems (CIS) with a strong passion for cybersecurity. This repository serves as a portfolio to showcase my skills, projects, and achievements in the field of cybersecurity and information systems.
+Welcome to my repository! My name is Ewan, a recent graduate in Computer Information Systems (CIS) with a strong passion for cybersecurity. This repository serves as a portfolio to showcase my skills, projects, and achievements in the field of cybersecurity and information systems.
 
 ## Qualifications
 
