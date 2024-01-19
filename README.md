@@ -14,9 +14,8 @@ Welcome to my repository! My name is Ewan, a recent graduate in Computer Informa
 ### Skills
 - Network Security
 - Penetration Testing
-###- Incident Response
-###- Cryptography
-- Secure Coding Practices
+- Incident Response
+- Cryptography
 - Risk Assessment and Management
 
 <!--
