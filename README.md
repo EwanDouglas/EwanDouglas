@@ -14,16 +14,16 @@ Welcome to my repository! My name is Ewan, a recent graduate in Computer Informa
 ### Skills
 - Network Security
 - Penetration Testing
-- Incident Response
-- Cryptography
+###- Incident Response
+###- Cryptography
 - Secure Coding Practices
 - Risk Assessment and Management
 
-## Projects
+<!--
+Projects
 
 ### 1. Network Security Audit
-- Description: Conducted a comprehensive network security audit for a small business, identifying vulnerabilities and proposing security enhancements.
-- Technologies: Nmap, Wireshark, Intrusion Detection Systems (IDS)
+- Description: Conducted a comprehensive network security audit for a small business, identifying vulnerabilities and proposing security enhancements.- Technologies: Nmap, Wireshark, Intrusion Detection Systems (IDS)
 
 ### 2. Web Application Penetration Testing
 - Description: Performed penetration testing on a web application to identify and mitigate potential security risks.
@@ -51,7 +51,7 @@ Feel free to explore my projects and reach out if you have any collaboration opp
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ewan-douglas-5a67762a0/) 
 
 
-
+-->
 
 
 
