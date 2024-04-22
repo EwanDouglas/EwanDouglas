@@ -1,6 +1,6 @@
 
 
-# Ewan Douglas' Cybersecurity Projects Repository
+# Ewan Douglas' Projects Repository
 
 ## Overview
 
