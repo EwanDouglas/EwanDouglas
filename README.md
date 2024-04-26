@@ -9,7 +9,7 @@ My name is Ewan, a recent graduate in Computer Information Systems (CIS) with a 
 ## Qualifications
 
 ### Education
-- Bachelor's of Business Administration in Computer Information Systems (Texas State University, 2022)
+- BBA in Computer Information Systems (Texas State University, 2022)
 
 ### Skills
 - Network Security
