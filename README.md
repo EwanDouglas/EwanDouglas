@@ -12,10 +12,10 @@ My name is Ewan, a recent graduate in Computer Information Systems (CIS) with a 
 - BBA in Computer Information Systems (Texas State University, 2022)
 
 ### Skills
-- Network Security
-- Penetration Testing
-- Incident Response
 - Customer Service
+- Penetration Testing
+- Network Security
+- Incident Response
 - Risk Assessment and Management
 
 <!--
