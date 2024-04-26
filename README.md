@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to my repository! My name is Ewan, a recent graduate in Computer Information Systems (CIS) with a passion for cybersecurity. This repository serves as a portfolio to showcase my skills, projects, and achievements in the field of cybersecurity and information technology.
+My name is Ewan, a recent graduate in Computer Information Systems (CIS) with a passion for IT and cybersecurity. This repository serves as a portfolio to showcase my skills, projects, and achievements in the field of cybersecurity and information technology.
 
 ## Qualifications
 
@@ -15,7 +15,7 @@ Welcome to my repository! My name is Ewan, a recent graduate in Computer Informa
 - Network Security
 - Penetration Testing
 - Incident Response
-- Cryptography
+- Customer Service
 - Risk Assessment and Management
 
 <!--
